@@ -1,0 +1,38 @@
+{
+  "subject": "Biology",
+  "year": "Y4",
+  "source_authority": [
+    "2026 Y4 Biology Assessment Framework",
+    "2026 Y4 Biology Curriculum Map",
+    "2026 Y4 Biology Textbook Reference Pages",
+    "Biology Matters GCE O-Level textbook",
+    "2025 Y4 Biology EYA question paper"
+  ],
+  "assessment_objectives": [
+    "Knowledge with Understanding",
+    "Handling Information and Solving Problems",
+    "Experimental Skills and Investigations"
+  ],
+  "topics": [
+    "Cells & the Chemistry of Life (Y3)",
+    "Natural Selection and Reproduction",
+    "DNA, Nuclear and Cellular Division",
+    "Inheritance",
+    "Infectious Diseases",
+    "Molecular Genetics"
+  ],
+  "skill_dimensions": [
+    "recall",
+    "explanation",
+    "application",
+    "data_handling",
+    "experimental_skills",
+    "exam_transfer"
+  ],
+  "exam": {
+    "duration_minutes": 120,
+    "mcq_marks": 20,
+    "structured_marks": 60,
+    "weighting_percent": 55
+  }
+}
